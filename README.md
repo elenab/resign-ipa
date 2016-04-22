@@ -1,1 +1,2 @@
-# resign-ipa
+Resign ipa file
+===================
